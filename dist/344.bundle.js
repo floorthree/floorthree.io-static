@@ -1,0 +1,1 @@
+(self.webpackChunkfloorthree_ca=self.webpackChunkfloorthree_ca||[]).push([[344],{344:()=>{function a(){dataLayer.push(arguments)}window.dataLayer=window.dataLayer||[],a("js",new Date),a("config","G-68P5W92H6K")}}]);
